@@ -46,4 +46,4 @@ If you find any issues with the AI chatbot or have any suggestions for improveme
 
 ### Author
 
-[@uixaadi](https://github.com/uixaadi)
+[@mifransaleem](https://github.com/mifransaleem)
